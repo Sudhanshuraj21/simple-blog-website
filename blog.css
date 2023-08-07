@@ -429,16 +429,6 @@ section{
     justify-content: space-between;
 }
 
-.footer .credit{
-    text-transform: capitalize;
-    font-size: 2rem;
-    color:var(--black);
-    padding: 1rem 0;
-}
-
-.footer .credit span{
-    color:var(--orange);
-}
 
 .footer .follow{
     padding: 1rem 0;
@@ -470,9 +460,6 @@ section{
 
 
 
-
-
-/* media queries  */
 
 @media (max-width:991px){
 
